@@ -1,25 +1,26 @@
 Olá terráqueos! ✌🏻👽
-
-Estou cursando Técnico em Automação Industrial na ETEC Presidente Vargas, bem como outros cursos profissionalizantes no SENAI Nami Jafet voltados para a área. Sou um entusiasta de programação C++/C# e Inteligência Artificial..  
+Técnico em Automação Industrial || Técnico em Eletrônica || Servidor Público || Estudante de Engenharia de Software
 ____
 Tenho como objetivo nesta plataforma compartilhar conhecimento e me aprofundar nos estudos dos componentes de programação.
 ____
+
+Engenharia de Software 📝
 
 Técnico em Eletrônica ✅
 
 Técnico em Informática ✅
 
-Técnico em Automação Industrial 📝
+Técnico em Automação Industrial ✅
 
 Eletricista Instalador ✅
 
 Lógica de Programação ✅
 
-Comandos Elétricos 📝
+Comandos Elétricos ✅
 
-Montador de Painéis Elétricos 📝
+Montador de Painéis Elétricos ✅
 
-CLP Siemens TIA Portal 📝
+CLP Siemens TIA Portal ✅
 
 
 <!---
